@@ -1,0 +1,2 @@
+#!/bin/bash
+docker container rm personal-cloud-cloud-1 personal-cloud-db-1

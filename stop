@@ -1,0 +1,2 @@
+#!/bin/bash
+docker kill personal-cloud-cloud-1 personal-cloud-db-1
